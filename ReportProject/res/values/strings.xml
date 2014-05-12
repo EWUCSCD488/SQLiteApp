@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReportProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="Start">Start timing</string>
+	<string name="Stop">Stop and save</string>
+	 <string name="timerVal">00:00:00</string>
+	
+</resources>
